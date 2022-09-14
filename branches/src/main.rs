@@ -1,5 +1,3 @@
-use core::num;
-
 fn main() {
     let number = 6;
 
